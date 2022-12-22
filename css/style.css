@@ -7,8 +7,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   color: #ffffff;
 
-  background-color: #312785;
-  background-image:
+  background-color: #2c2c2e;
+  /* background-image:
     repeating-linear-gradient(
       150deg,
       rgba(255, 255, 255, 0.06),
@@ -23,7 +23,10 @@ body {
       transparent 41px);
 
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; */
+}
+.img_main{
+  height: 500px;
 }
 
 main {
